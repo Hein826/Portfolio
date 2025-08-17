@@ -9,7 +9,6 @@
 ![GOOGLE SHEETS](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## [Project 1: Superstore Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTcxMjgzZTktMjI5ZC00ZDhmLThiMDgtZThhZTg2MjM3NjFmIiwidCI6IjJjNzYxZjM5LTJiNGEtNGJlOC05NmY1LWU3ZTI0YmIyMTU2NSIsImMiOjEwfQ%3D%3D)
-
+## [Project 1 : Sales & Profit Performance Dashboard]
 
 
