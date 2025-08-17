@@ -1,2 +1,16 @@
-title: YOUR NAME
-theme: jekyll-theme-minimal
+site_name: Hein's BI Portfolio
+site_description: Power BI + SQL Portfolio Projects
+site_author: Hein
+repo_url: https://github.com/Hein826/Portfolio
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: amber
+
+nav:
+  - Home: index.md
+  - Project 1: project1.md
+  - Project 2: project2.md
+  
